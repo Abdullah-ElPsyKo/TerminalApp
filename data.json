@@ -7,7 +7,7 @@
         "year": 2023,
         "isElectric": true,
         "releaseDate": "2023-03-15",
-        "imageUrl": "https://example.com/cars/tesla_model_s.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/tesla-model-s.png",
         "category": "Sedan",
         "features": [
             "Autopilot",
@@ -19,7 +19,7 @@
             "name": "Tesla Inc.",
             "country": "USA",
             "founded": 2003,
-            "logoUrl": "https://example.com/manufacturers/tesla_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/tesla.png"
         }
     },
     {
@@ -30,7 +30,7 @@
         "year": 2022,
         "isElectric": false,
         "releaseDate": "2022-06-20",
-        "imageUrl": "https://example.com/cars/bmw_m3.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/bmw-m3.png",
         "category": "Sports Sedan",
         "features": [
             "Turbocharged Engine",
@@ -42,7 +42,7 @@
             "name": "BMW",
             "country": "Germany",
             "founded": 1916,
-            "logoUrl": "https://example.com/manufacturers/bmw_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/bmw.png"
         }
     },
     {
@@ -53,7 +53,7 @@
         "year": 2023,
         "isElectric": false,
         "releaseDate": "2023-02-10",
-        "imageUrl": "https://example.com/cars/audi_r8.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/audi-r8.png",
         "category": "Supercar",
         "features": [
             "V10 Engine",
@@ -65,7 +65,7 @@
             "name": "Audi",
             "country": "Germany",
             "founded": 1909,
-            "logoUrl": "https://example.com/manufacturers/audi_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/audi.png"
         }
     },
     {
@@ -76,7 +76,7 @@
         "year": 2023,
         "isElectric": false,
         "releaseDate": "2023-04-05",
-        "imageUrl": "https://example.com/cars/porsche_911_turbo_s.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/porsche-911-turbo-s.png",
         "category": "Sports Car",
         "features": [
             "Twin-Turbo Engine",
@@ -88,7 +88,7 @@
             "name": "Porsche",
             "country": "Germany",
             "founded": 1931,
-            "logoUrl": "https://example.com/manufacturers/porsche_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/porsche.png"
         }
     },
     {
@@ -99,7 +99,7 @@
         "year": 2023,
         "isElectric": true,
         "releaseDate": "2023-01-10",
-        "imageUrl": "https://example.com/cars/ford_mach_e.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/ford-mustang-mach-e.png",
         "category": "Electric SUV",
         "features": [
             "Extended Range Battery",
@@ -111,7 +111,7 @@
             "name": "Ford Motor Company",
             "country": "USA",
             "founded": 1903,
-            "logoUrl": "https://example.com/manufacturers/ford_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/ford.png"
         }
     },
     {
@@ -122,7 +122,7 @@
         "year": 2023,
         "isElectric": false,
         "releaseDate": "2023-07-15",
-        "imageUrl": "https://example.com/cars/lamborghini_huracan.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/lamborghini-huracan-evo.png",
         "category": "Supercar",
         "features": [
             "V10 Engine",
@@ -134,7 +134,7 @@
             "name": "Lamborghini",
             "country": "Italy",
             "founded": 1963,
-            "logoUrl": "https://example.com/manufacturers/lamborghini_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/lamborghini.png"
         }
     },
     {
@@ -145,7 +145,7 @@
         "year": 2023,
         "isElectric": true,
         "releaseDate": "2023-09-20",
-        "imageUrl": "https://example.com/cars/ferrari_sf90.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/ferrari-sf90-stradale.png",
         "category": "Hypercar",
         "features": [
             "Hybrid Powertrain",
@@ -157,7 +157,7 @@
             "name": "Ferrari",
             "country": "Italy",
             "founded": 1939,
-            "logoUrl": "https://example.com/manufacturers/ferrari_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/ferrari.png"
         }
     },
     {
@@ -168,7 +168,7 @@
         "year": 2023,
         "isElectric": false,
         "releaseDate": "2023-05-25",
-        "imageUrl": "https://example.com/cars/mercedes_amg_gt.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/mercedes-amg-gt-black-series.png",
         "category": "Sports Car",
         "features": [
             "Twin-Turbo V8",
@@ -180,7 +180,7 @@
             "name": "Mercedes-Benz",
             "country": "Germany",
             "founded": 1926,
-            "logoUrl": "https://example.com/manufacturers/mercedes_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/mercedes.png"
         }
     },
     {
@@ -191,7 +191,7 @@
         "year": 2023,
         "isElectric": false,
         "releaseDate": "2023-10-12",
-        "imageUrl": "https://example.com/cars/chevrolet_corvette.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/chevrolet-corvette-z06.png",
         "category": "Sports Car",
         "features": [
             "Flat-Plane V8",
@@ -203,7 +203,7 @@
             "name": "Chevrolet",
             "country": "USA",
             "founded": 1911,
-            "logoUrl": "https://example.com/manufacturers/chevrolet_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/chevrolet.png"
         }
     },
     {
@@ -214,7 +214,7 @@
         "year": 2023,
         "isElectric": false,
         "releaseDate": "2023-11-05",
-        "imageUrl": "https://example.com/cars/nissan_gtr.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/nissan-gt-r-nismo.png",
         "category": "Sports Car",
         "features": [
             "Twin-Turbo V6",
@@ -226,7 +226,7 @@
             "name": "Nissan",
             "country": "Japan",
             "founded": 1933,
-            "logoUrl": "https://example.com/manufacturers/nissan_logo.jpg"
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/nissan.png"
         }
     }
 ]
