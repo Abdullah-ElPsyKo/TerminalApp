@@ -1,6 +1,6 @@
 import * as readline from 'readline-sync';
 import data from './data.json';
-import { Car, Manufacturer } from './interfaces';
+import { Car } from './interfaces';
 
 console.log('Welcome to the JSON data viewer!');
 
