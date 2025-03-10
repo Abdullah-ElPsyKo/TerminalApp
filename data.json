@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "brand": "Tesla",
+        "model": "Model S",
+        "description": "A high-performance electric sedan with cutting-edge technology.",
+        "year": 2023,
+        "isElectric": true,
+        "releaseDate": "2023-03-15",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/tesla-model-s.png",
+        "category": "Sedan",
+        "features": [
+            "Autopilot",
+            "Ludicrous Mode",
+            "Glass Roof"
+        ],
+        "manufacturer": {
+            "id": 1,
+            "name": "Tesla Inc.",
+            "country": "USA",
+            "founded": 2003,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/tesla.png"
+        }
+    },
+    {
+        "id": 2,
+        "brand": "BMW",
+        "model": "M3",
+        "description": "A high-performance sports sedan with aggressive styling.",
+        "year": 2022,
+        "isElectric": false,
+        "releaseDate": "2022-06-20",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/bmw-m3.png",
+        "category": "Sports Sedan",
+        "features": [
+            "Turbocharged Engine",
+            "Adaptive Suspension",
+            "M Drive Modes"
+        ],
+        "manufacturer": {
+            "id": 2,
+            "name": "BMW",
+            "country": "Germany",
+            "founded": 1916,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/bmw.png"
+        }
+    },
+    {
+        "id": 3,
+        "brand": "Audi",
+        "model": "R8",
+        "description": "A mid-engine supercar with breathtaking performance.",
+        "year": 2023,
+        "isElectric": false,
+        "releaseDate": "2023-02-10",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/audi-r8.png",
+        "category": "Supercar",
+        "features": [
+            "V10 Engine",
+            "Quattro AWD",
+            "Virtual Cockpit"
+        ],
+        "manufacturer": {
+            "id": 3,
+            "name": "Audi",
+            "country": "Germany",
+            "founded": 1909,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/audi.png"
+        }
+    },
+    {
+        "id": 4,
+        "brand": "Porsche",
+        "model": "911 Turbo S",
+        "description": "An iconic sports car with blistering speed and precision handling.",
+        "year": 2023,
+        "isElectric": false,
+        "releaseDate": "2023-04-05",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/porsche-911-turbo-s.png",
+        "category": "Sports Car",
+        "features": [
+            "Twin-Turbo Engine",
+            "PDK Transmission",
+            "Sport Chrono Package"
+        ],
+        "manufacturer": {
+            "id": 4,
+            "name": "Porsche",
+            "country": "Germany",
+            "founded": 1931,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/porsche.png"
+        }
+    },
+    {
+        "id": 5,
+        "brand": "Ford",
+        "model": "Mustang Mach-E",
+        "description": "An all-electric SUV inspired by the legendary Mustang.",
+        "year": 2023,
+        "isElectric": true,
+        "releaseDate": "2023-01-10",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/ford-mustang-mach-e.png",
+        "category": "Electric SUV",
+        "features": [
+            "Extended Range Battery",
+            "Ford Co-Pilot360",
+            "Panoramic Roof"
+        ],
+        "manufacturer": {
+            "id": 5,
+            "name": "Ford Motor Company",
+            "country": "USA",
+            "founded": 1903,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/ford.png"
+        }
+    },
+    {
+        "id": 6,
+        "brand": "Lamborghini",
+        "model": "Huracán Evo",
+        "description": "A ferocious V10-powered supercar with stunning looks.",
+        "year": 2023,
+        "isElectric": false,
+        "releaseDate": "2023-07-15",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/lamborghini-huracan-evo.png",
+        "category": "Supercar",
+        "features": [
+            "V10 Engine",
+            "AWD",
+            "Aerodynamic Enhancements"
+        ],
+        "manufacturer": {
+            "id": 6,
+            "name": "Lamborghini",
+            "country": "Italy",
+            "founded": 1963,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/lamborghini.png"
+        }
+    },
+    {
+        "id": 7,
+        "brand": "Ferrari",
+        "model": "SF90 Stradale",
+        "description": "A plug-in hybrid hypercar delivering extreme performance.",
+        "year": 2023,
+        "isElectric": true,
+        "releaseDate": "2023-09-20",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/ferrari-sf90-stradale.png",
+        "category": "Hypercar",
+        "features": [
+            "Hybrid Powertrain",
+            "Carbon Fiber Body",
+            "F1 Tech"
+        ],
+        "manufacturer": {
+            "id": 7,
+            "name": "Ferrari",
+            "country": "Italy",
+            "founded": 1939,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/ferrari.png"
+        }
+    },
+    {
+        "id": 8,
+        "brand": "Mercedes-Benz",
+        "model": "AMG GT Black Series",
+        "description": "A track-focused version of the AMG GT with insane aerodynamics.",
+        "year": 2023,
+        "isElectric": false,
+        "releaseDate": "2023-05-25",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/mercedes-amg-gt-black-series.png",
+        "category": "Sports Car",
+        "features": [
+            "Twin-Turbo V8",
+            "Active Aero",
+            "Track Mode"
+        ],
+        "manufacturer": {
+            "id": 8,
+            "name": "Mercedes-Benz",
+            "country": "Germany",
+            "founded": 1926,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/mercedes.png"
+        }
+    },
+    {
+        "id": 9,
+        "brand": "Chevrolet",
+        "model": "Corvette Z06",
+        "description": "An American supercar with a naturally aspirated V8 and exotic performance.",
+        "year": 2023,
+        "isElectric": false,
+        "releaseDate": "2023-10-12",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/chevrolet-corvette-z06.png",
+        "category": "Sports Car",
+        "features": [
+            "Flat-Plane V8",
+            "Magnetic Suspension",
+            "Mid-Engine Layout"
+        ],
+        "manufacturer": {
+            "id": 9,
+            "name": "Chevrolet",
+            "country": "USA",
+            "founded": 1911,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/chevrolet.png"
+        }
+    },
+    {
+        "id": 10,
+        "brand": "Nissan",
+        "model": "GT-R Nismo",
+        "description": "A Japanese legend with mind-blowing performance and AWD grip.",
+        "year": 2023,
+        "isElectric": false,
+        "releaseDate": "2023-11-05",
+        "imageUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carPictures/nissan-gt-r-nismo.png",
+        "category": "Sports Car",
+        "features": [
+            "Twin-Turbo V6",
+            "AWD",
+            "Track-Tuned Aerodynamics"
+        ],
+        "manufacturer": {
+            "id": 10,
+            "name": "Nissan",
+            "country": "Japan",
+            "founded": 1933,
+            "logoUrl": "https://raw.githubusercontent.com/Abdullah-ElPsyKo/TerminalApp/main/images/carLogos/nissan.png"
+        }
+    }
+]
